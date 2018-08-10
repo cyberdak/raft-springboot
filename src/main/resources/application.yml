@@ -1,0 +1,7 @@
+server:  
+  port: 8090
+  session-timeout: 30
+  tomcat.max-threads: 0
+  tomcat.uri-encoding: UTF-8
+
+servers: 127.0.0.1:1111,127.0.0.1:1112,127.0.0.1:1113
